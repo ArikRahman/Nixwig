@@ -24,6 +24,7 @@
           # Core dependencies
           alsa-lib
           # cursor
+
           fontconfig
           freetype
           gdk-pixbuf
@@ -34,6 +35,11 @@
           pipewire
           vulkan-loader
           zlib
+
+          # for file dialog
+          pango
+          harfbuzz
+          at-spi2-atk
 
           # X11 libs
           xorg.libX11
