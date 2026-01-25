@@ -1,12 +1,12 @@
-Working Bitwig 6 with Nix!
+Working Bitwig 6 functionality with Nix!
 
-Tested with Bitwig 6 beta 9 on NixOS!
+Tested with Bitwig 6 beta 9 on NixOS.
 
 Simply run with
 
 nix run . -- -c "./opt/bitwig-studio/bitwig-studio"
 
-For reference:
+Setup instructions:
 
 1. Extract bitwig-studio-6.0-beta-9.deb
 2. Extract data.tar.zst
